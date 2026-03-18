@@ -1,2 +1,2 @@
-# My-LeetCode-Solutions
-This repository contains my LeetCode problem solving journey.
+# My-Codeforces-Solutions
+This repository contains my Codeforces problem solving journey.
